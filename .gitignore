@@ -1,0 +1,95 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Eclipse settings
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA settings
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# SQLite database files
+*.db
+*.db-journal
+
+# Large binary files
+*.jar
+
+# Generated files
+*_export.csv
+*.bak
+*.swp
+*.swo
+
+# Private files that shouldn't be in repository
+credentials.txt
+private_keys.txt
+
+# Library Directory
+/lib/
+
+# Temp directory
+/tmp/
+
+# Environment files
+.env
+.venv
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties 
