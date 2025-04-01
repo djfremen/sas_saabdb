@@ -59,6 +59,9 @@ var/
 *.jar
 
 # Generated files
+TSECCODE_export.csv
+tables/TSECCODE_export.csv
+csv_exports/TSECCODE_export.csv
 *.bak
 *.swp
 *.swo
