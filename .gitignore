@@ -59,7 +59,6 @@ var/
 *.jar
 
 # Generated files
-*_export.csv
 *.bak
 *.swp
 *.swo
